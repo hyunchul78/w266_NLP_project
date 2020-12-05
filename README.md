@@ -11,6 +11,9 @@
     
     https://drive.google.com/drive/folders/1UN3-kqim2eyRGaGBbhOGDzdJuWZvfUAg?usp=sharing
    
+3. Reference
+   The baseline implementation for sentence generation based on VAE was borrowed from the following link. 
+    https://nicgian.github.io/text-generation-vae/
 
 
  
